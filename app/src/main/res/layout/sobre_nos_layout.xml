@@ -9,19 +9,11 @@
     tools:context=".SobreNosActivity">
 
     <Button
-        android:id="@+id/btnLayout"
+        android:id="@+id/btnSobreNos"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="30dp"
         android:text="Voltar para Menu Principal" />
-
-    <Button
-        android:id="@+id/btnMenuPrincipalVoltar"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal"
-        android:layout_marginTop="30dp"
-        android:text="Voltar para NÃOSEI" />
 
 </LinearLayout>

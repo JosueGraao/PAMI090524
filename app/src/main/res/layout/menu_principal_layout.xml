@@ -22,6 +22,6 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="30dp"
-        android:text="Voltar para NÃOSEI" />
+        android:text="Voltar para Login" />
 
 </LinearLayout>
